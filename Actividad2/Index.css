@@ -1,0 +1,40 @@
+body{
+    font: lucida sans, sans-serif;
+    background-image: url(Calavera.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1{
+    text-align: center;
+    color: lightblue;
+    font-size: 50px;
+    text-shadow: 6px 6px 6px #000000;
+    border: solid 5px lightblue;
+    background-color: white;
+}
+
+h2{
+    text-align: center;
+    font-style: italic;
+    color: white;
+    text-decoration: underline;
+}
+
+ul{
+    list-style-type: none;
+    text-align: center;
+}
+
+li{
+    display: inline-block;
+    margin: 5px;
+    font-size: 20px;
+    border: solid 2px orangered;
+    padding: 10px;
+    background-color: white;
+}
+
+a{
+    color:orangered;
+}
